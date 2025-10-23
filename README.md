@@ -2,10 +2,10 @@
 THIS CONTAINS PROGRAMS OF ASSIGNMENT 1 # TUTEDUDE
 
 # In program1 we have to take two numbers from the user and do the following operations on them:
-Addition
-Subtraction
-Multiplication
-Division
+# Addition
+# Subtraction
+# Multiplication
+# Division
 At last we have to print the results
 
 
